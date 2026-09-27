@@ -126,10 +126,13 @@ Pixel-focused recreation of the ToDesktop landing page: logo marquee, step-by-st
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" /> GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MOHILKUMAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHILKUMAR&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOHILKUMAR&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=MOHILKUMAR&theme=tokyonight&hide_border=true" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MOHILKUMAR&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MOHILKUMAR&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MOHILKUMAR&theme=tokyonight" />
+  <br/>
+  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MOHILKUMAR&theme=tokyonight&utcOffset=5.5" />
 </div>
 
 ---
