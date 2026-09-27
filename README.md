@@ -79,7 +79,7 @@ Responsive YouTube clone on the YouTube Data API v3: trending videos, categories
 
 `React` `Redux Toolkit` `React Router` `Tailwind` `YouTube API`
 
-[<img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />](https://video-app-khsc.vercel.app)
+[<img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />](https://video-app-psi-eight.vercel.app)
 [<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/MOHILKUMAR/Video-app)
 
 </td>
