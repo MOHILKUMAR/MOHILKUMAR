@@ -66,7 +66,7 @@ Streaming-style movie app. Describe a mood and Gemini AI suggests movies (Englis
 
 `React` `Redux Toolkit` `Firebase` `Gemini` `TMDB` `Tailwind`
 
-[<img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />](https://msg-silk.vercel.app)
+[<img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />](https://msg-silk.vercel.app/browse)
 [<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/MOHILKUMAR/MSG)
 
 </td>
@@ -103,7 +103,7 @@ Responsive real estate landing page with property carousels, categories, testimo
 
 `React` `Vite` `Tailwind` `React Slick` `Resend`
 
-[<img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />](https://property-landing-page-mohilkumars-projects.vercel.app)
+[<img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />](https://property-landing-page-alpha.vercel.app)
 [<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/MOHILKUMAR/Property-Landing-Page)
 
 </td>
