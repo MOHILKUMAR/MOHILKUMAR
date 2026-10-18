@@ -119,6 +119,29 @@ Pixel-focused recreation of the ToDesktop landing page: logo marquee, step-by-st
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hospital.png" width="22" /> MediQueue · Hospital OPD Booking
+Online OPD token booking and live queue system for hospitals. Patients book a token and watch the queue in real time; staff handle check-in, call-next, skip and walk-ins; admins manage doctors, schedules, holidays and refunds. Includes a waiting-room "now serving" TV screen.
+
+`React` `TypeScript` `Supabase` `Realtime` `Razorpay` `Tailwind`
+
+[<img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=cloudflare&logoColor=white" />](https://mediqueue-5b5.pages.dev)
+[<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/MOHILKUMAR/OPD-Booking)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="22" /> Customer Money Manager
+Offline Windows desktop ledger for small businesses: track money received from and paid to customers, daily usage charges, credit/debit adjustments and expenses. Analytics, CSV import/export, printable reports and verified local backups. No cloud, no telemetry.
+
+`Electron` `React` `TypeScript` `SQLite` `Tailwind` `Recharts`
+
+[<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/MOHILKUMAR/Money_tranfer_Managment)
+
+</td>
+</tr>
 </table>
 
 ---
